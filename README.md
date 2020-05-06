@@ -1,1 +1,1 @@
-# burger
+This is an ordering application to keep track of what the customer names their burgers. It uses node, mysql, and follows the MVC layout. It also uses HTML with Express-Handlebars. The motivation for this assignment was to understand how to incoporate things we have learned in the past few weeks into a functioning application.
